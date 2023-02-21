@@ -1,0 +1,33 @@
+.container {
+  margin-top: 40px;
+  display: block;
+  padding: 5px;
+  position: relative;
+  max-width: 75%;
+}
+
+.todays-info {
+  display: block;
+  margin: auto;
+  font-size: 32px;
+}
+
+.weather-details {
+  padding: 15px;
+  display: block;
+  margin: auto;
+  font-size: 20px;
+}
+
+.card {
+  display: block;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+li {
+  list-style: none;
+}
